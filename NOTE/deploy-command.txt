@@ -19,4 +19,5 @@ git push -u origin main
 
 ----------------------------------------
 
-https://web-backend-cloud.herokuapp.com/
+https://github.com/Shiratasa/web-frontend-cloud
+https://happy-cori-46d3e3.netlify.app/

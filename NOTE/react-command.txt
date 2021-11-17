@@ -3,7 +3,7 @@ npx create-react-app react_js
 cd react_js
 npm install react-scripts@latest
 npm install react-router-dom@5.0.0
-npm start
+npm audit fix
 
 ----------------------------------------
 
