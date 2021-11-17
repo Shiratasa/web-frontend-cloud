@@ -42,7 +42,7 @@ function Main_Page() {
   return (
     <div className="App">
       <Helmet>
-        <title>Putthiwat's Finnomena</title>
+        <title>Shiratasa Website</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
