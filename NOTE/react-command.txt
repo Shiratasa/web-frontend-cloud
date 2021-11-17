@@ -1,0 +1,21 @@
+cd D:/WebProject
+npx create-react-app react_js
+cd react_js
+npm install react-scripts@latest
+npm install react-router-dom@5.0.0
+npm start
+
+----------------------------------------
+
+cd D:/WebProject/react_js/src
+mkdir pages
+
+----------------------------------------
+
+cd D:/WebProject/react_js/public
+mkdir resources
+
+----------------------------------------
+
+{Add this section to 'package.json'}
+* "proxy": "http://127.0.0.1:5000"

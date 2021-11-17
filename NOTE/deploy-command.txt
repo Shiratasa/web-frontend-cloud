@@ -1,0 +1,22 @@
+https://github.com/
+https://www.netlify.com/
+
+----------------------------------------
+
+cd D:/WebProject/react_js
+git init
+git remote add origin https://github.com/Shiratasa/web-frontend-cloud.git
+git add .
+git add -u
+git commit -m "Commend"
+git branch -M main
+
+----------------------------------------
+
+git push origin master
+OR
+git push -u origin main
+
+----------------------------------------
+
+https://web-backend-cloud.herokuapp.com/
